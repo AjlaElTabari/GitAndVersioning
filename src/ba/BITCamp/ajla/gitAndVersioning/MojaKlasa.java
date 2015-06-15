@@ -3,6 +3,7 @@ package ba.BITCamp.ajla.gitAndVersioning;
 public class MojaKlasa {
 	public String a;
 	public int b;
+	public String zip;
 	
 	/**
 	 * @param a
